@@ -9,7 +9,7 @@ A group project in a Web Development bootcamp to make a responsive web app using
 - To showcase popular anime titles, with character names, corresponding quotes and images.
 - To provide reinforcement for learning and skills practice.
 - It provides useful information about tv and movie animes which will be grouped together in five genres.
-- Published at [(https://mattpanyor.github.io/anime-recommendation-app/)]
+- Published at [(https://siminanaraki.github.io/anime-recommendation-app/)]
 
 ## Screenshot
 
